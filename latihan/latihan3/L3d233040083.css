@@ -1,0 +1,32 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    color: darkblue;
+    font-size: 60px;
+    font-family: Comic Sans MS
+}
+
+p {
+    text-align: justify;
+    font-family: Georgia;
+}
+.link {
+    color: white;
+}
+.p1 {
+    color: orange;
+    text-align: center;
+}
+.p2 {
+    text-align: right;
+}
+
+.link:hover {
+    color: red;
+}
+
+.link2:hover {
+    color: white;
+    background-color: blue;
+}
